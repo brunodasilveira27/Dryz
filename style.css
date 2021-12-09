@@ -1,0 +1,540 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  .fotoHinata{
+                  width:150px;
+                  height:150px;
+                  border-radius:150px;
+                  position:relative;
+                  top:0px;
+                  }
+                  
+                  .bordaFotoHinata{
+                  width:150px;
+                  height:150px;
+                  border-radius:150px;
+                  border:3px solid #9400D3;
+                  position:relative;
+                  top:49px;
+                  }
+                  .h1Dryz{
+                  font-size:30px;
+                  color:#9400D3;
+                  position:relative;
+                  top:80px;
+                  }
+                  
+                  .divPlayer{
+                  background-color:#F0F8FF;
+                  width:300px;
+                  height:50px;
+                  position:relative;
+                  top:100px;
+                  border:3px solid #9400D3;
+                  border-radius:150px;
+                  }
+                  
+                  .h3NomeMúsica{
+                  color:#9400D3;
+                  position:relative;
+                  top:-4px;
+                  left:30px;
+                  }
+                  
+                  .tocarDryz1{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz1{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz2{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz2{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz3{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz3{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  .tocarDryz4{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz4{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz5{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz5{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz6{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz6{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz7{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz7{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz8{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz8{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz9{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz9{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz10{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz10{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz11{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz11{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz12{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz12{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz13{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz13{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz14{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz14{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz15{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz15{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz16{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz16{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz17{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz17{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz18{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz18{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  
+                  .tocarDryz19{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz19{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz20{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz20{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz21{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz21{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz22{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz22{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz23{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz23{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz24{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz24{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz25{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz25{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz26{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz26{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  .tocarDryz27{
+                  width:50px;
+                  height:80px;
+                  position:relative;
+                  top:-75px;
+                  left:-100px;
+                  display:block;
+                  }
+                  
+                  .pausarDryz27{
+                  width:50x;
+                  height:80px;
+                  position:absolute;
+                  top:-12px;
+                  left:25px;
+                  display:none;
+                  }
+                  
+                  
