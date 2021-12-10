@@ -10,7 +10,10 @@
 
 
 
-
+              //carregar página
+              
+             function carregar(){
+              
              //armazenar músicas 
              
              var DryzParanoia = new Audio('DryzParanoia.mp3');
@@ -1274,3 +1277,6 @@
              pausarMúsicaDryz25();
              pausarMúsicaDryz26();
              }
+                }
+                
+             window.addEventListener("load", carregar);
