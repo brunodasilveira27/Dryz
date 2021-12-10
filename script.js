@@ -10,9 +10,6 @@
 
 
 
-              //carregar página
-              
-             function carregar(){
               
              //armazenar músicas 
              
@@ -1277,6 +1274,3 @@
              pausarMúsicaDryz25();
              pausarMúsicaDryz26();
              }
-                }
-                
-             window.addEventListener("load", carregar);
